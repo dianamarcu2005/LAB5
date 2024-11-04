@@ -1,0 +1,21 @@
+.poza{
+    margin-top:70px;
+    margin-left:20px;
+}
+.test{
+    color:red;
+}
+.div-mare-text-si-poza{
+    display:flex;
+    flex-direction: row;
+}
+.info-pers{
+    margin-top:70px;
+}
+.discipline{
+    margin-left:35px;
+    margin-top:-20px;
+}
+.hobby-uri{
+    margin-left:150dpx;
+}
